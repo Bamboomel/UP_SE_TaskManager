@@ -1,0 +1,4 @@
+/bin/
+*.class
+# You can also ignore the whole out/ directory
+/out/
